@@ -1,0 +1,7 @@
+while(a<{
+	print a-b)
+	if c<d {
+		int c d;
+		c=12;
+	}
+}

@@ -1,0 +1,146 @@
+/*int a[12],i,x;
+real b[12];
+x=1;
+char str[100];
+real sum;
+
+while(i<10){
+	a[i] = i;
+	b[i] = (a[i]+1)*i+3;
+	print(b[i]);
+	sum=sum+b[i];
+	print(sum);
+	if(sum>33&&b[i]<=33){
+		break;
+	}
+	i=i+1;
+}*/
+
+/*int x[5],i,j,t;
+while(t<5){
+	scan(x[t]);
+	print(x[t]);
+	t=t+1;
+}
+while(i<5){
+	j=i+1;
+	while(j<5){
+		if(x[i]>x[j]){
+			int tmp;
+			tmp = x[i];
+			x[i]=x[j];
+			x[j]=tmp;
+		}
+		j=j+1;
+	}
+	i=i+1;
+}
+t=0;
+while(t<5){
+	print(x[t]);
+	t=t+1;
+}
+int x[3];
+x[2]=1/1;
+print(x[-1);
+*/
+/*
+//º¯Êý
+def abs(int x;){
+	if(x<0){
+		x=0-x;
+	}
+	return x;
+}
+//²âÊÔº¯ÊýÆ¥Åä
+int x1;
+real x2;
+char x3;
+x1 = -2;
+x2 = -2.0;
+x3 = 'a';
+print(abs(x1));
+//print(abs(x2));
+//print(abs());
+//print(abs(x3));
+
+def abs(real x;){
+	if(x<0){
+		x=0-x;
+	}
+	return x;
+}
+print(abs(x2));
+
+//²âÊÔº¯Êý¶¨ÒåÓò
+char x;
+x='a';
+print("The x in outside is: ");
+print(x);
+def testField1(){
+	print(x);
+	return;
+}
+testField1();
+def testField2(){
+	int x;
+	x=12;
+	print(x);
+return;
+}
+print("The x in inside is:");
+testField2();
+
+//²âÊÔº¯ÊýµÝ¹é
+int i,time;
+i=0;
+time=10;
+def fibo(int cnt;){
+	if(cnt<=1){
+		return 1;
+	}
+	int a1,a2;
+	a1=cnt-1;
+	a2=cnt-2;	
+	return fibo(a1)+fibo(a2);
+}
+print("fibo function output is as below:");
+while(i<time){
+	print(fibo(i));
+	i=i+1;
+}*/
+/*
+real x;
+x=-1+(2*3)/(4-3)+(+3)-((-2.0)/(4 * 4 + 2))/2.0;
+print(x);
+real x;
+x=0;
+*/
+/*print("This is a test for string.\n\tHowever, the string only support ASCII code.");
+char a[12];
+a[0]='a';
+a[1]='b';
+print(a[0]);
+print(a[1]);
+*/
+/*
+//²âÊÔº¯Êý¶¨ÒåÓò
+char x;
+x='a';
+print("The x in outside is: ");
+print(x);
+def testField1(){
+	print(x);
+	return;
+}
+testField1();
+def testField2(){
+	int x;
+	x=12;
+	print(x);
+return;
+}
+print("The x in inside is:");
+testField2();
+*/
+int a[2.0];

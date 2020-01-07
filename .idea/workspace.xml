@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="304f71e7-3747-41b6-b115-afd8696802ff" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SpvDMk4Mpj5iQhIhkSRdwkkL8O" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/楚创华文教育/writing-cat-develop" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CMM.LA" />
+      <recent name="CMM.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SEATest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CMM.LATest" />
+      <module name="MyCompiler" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CMM.SATest" />
+      <module name="MyCompiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CMM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SEATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CMM.SEATest" />
+      <module name="MyCompiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CMM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SEATest" />
+        <item itemvalue="Application.SATest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="304f71e7-3747-41b6-b115-afd8696802ff" name="Default Changelist" comment="" />
+      <created>1556003575456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556003575456</updated>
+      <workItem from="1556003579816" duration="3444000" />
+      <workItem from="1556022375535" duration="8609000" />
+      <workItem from="1556103030529" duration="188000" />
+      <workItem from="1556417759341" duration="3939000" />
+      <workItem from="1556511896202" duration="46000" />
+      <workItem from="1558748710893" duration="1872000" />
+      <workItem from="1558780257833" duration="13757000" />
+      <workItem from="1558836941243" duration="4810000" />
+      <workItem from="1559486201974" duration="1337000" />
+      <workItem from="1559526490872" duration="2024000" />
+      <workItem from="1559536590269" duration="31000" />
+      <workItem from="1572273231996" duration="324000" />
+      <workItem from="1572337089238" duration="1965000" />
+      <workItem from="1572404766802" duration="2646000" />
+      <workItem from="1572484152869" duration="1088000" />
+      <workItem from="1572486601562" duration="1306000" />
+      <workItem from="1572492741872" duration="2580000" />
+      <workItem from="1572509691372" duration="10002000" />
+      <workItem from="1572573233656" duration="5476000" />
+      <workItem from="1572701975117" duration="1392000" />
+      <workItem from="1572829729454" duration="7351000" />
+      <workItem from="1572915143424" duration="9931000" />
+      <workItem from="1572937035237" duration="17451000" />
+      <workItem from="1573290822721" duration="645000" />
+      <workItem from="1573292182610" duration="676000" />
+      <workItem from="1573389747156" duration="1864000" />
+      <workItem from="1573455310932" duration="7833000" />
+      <workItem from="1573466675079" duration="4811000" />
+      <workItem from="1573522962902" duration="7243000" />
+      <workItem from="1573546760288" duration="6840000" />
+      <workItem from="1573609686152" duration="20000" />
+      <workItem from="1573978216137" duration="581000" />
+      <workItem from="1574060928559" duration="6601000" />
+      <workItem from="1574130004879" duration="600000" />
+      <workItem from="1574147281196" duration="14570000" />
+      <workItem from="1574166009755" duration="1108000" />
+      <workItem from="1574214678943" duration="6758000" />
+      <workItem from="1574235200454" duration="41000" />
+      <workItem from="1574595002552" duration="1315000" />
+      <workItem from="1574907442573" duration="14584000" />
+      <workItem from="1575108695999" duration="674000" />
+      <workItem from="1575190613945" duration="653000" />
+      <workItem from="1575293255842" duration="8659000" />
+      <workItem from="1575356385814" duration="2795000" />
+      <workItem from="1575457877186" duration="6573000" />
+      <workItem from="1575545622918" duration="30021000" />
+      <workItem from="1575722351677" duration="1760000" />
+      <workItem from="1575822886046" duration="3113000" />
+      <workItem from="1575902581474" duration="3602000" />
+      <workItem from="1575906727615" duration="872000" />
+      <workItem from="1575909863249" duration="403000" />
+      <workItem from="1575957310482" duration="1512000" />
+      <workItem from="1575966964121" duration="714000" />
+      <workItem from="1576601487707" duration="1633000" />
+      <workItem from="1576635672356" duration="6638000" />
+      <workItem from="1576647334055" duration="596000" />
+      <workItem from="1576673255929" duration="11411000" />
+      <workItem from="1576927614015" duration="8722000" />
+      <workItem from="1576984179795" duration="1574000" />
+      <workItem from="1577105963895" duration="4649000" />
+      <workItem from="1577203600905" duration="135000" />
+      <workItem from="1577203764509" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="rax" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
